@@ -70,3 +70,7 @@ arxiv, 2023. [[Paper]](http://arxiv.org/abs/2309.16797v1)
 * **Large Language Models Cannot Self-Correct Reasoning Yet** <br>
 *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou* <br>
 arxiv, 2023. [[Paper]](https://arxiv.org/abs/2310.01798)
+
+* **Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models** <br>
+*Leonardo Ranaldi, Andrè Freitas* <br>
+arxiv, 2024. [[Paper]](https://arxiv.org/abs/2405.00402)
